@@ -6,6 +6,7 @@ First, install all essential components for React Native and Expo:
 
 1. Yarn (recommended) or npm
    - Link to install yarn [here](https://yarnpkg.com/en/docs/install).
+2. Node.js if it is not already installed.
 
 ## Create app
 
